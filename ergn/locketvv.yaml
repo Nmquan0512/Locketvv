@@ -21,6 +21,6 @@ scriptings:
 - http_response:
     name: Locket_Gold_Nmquanvv
     match: ^https:\/\/api\.revenuecat\.com\/.+\/(receipts$|subscribers\/[^/]+$)
-    script_url: https://thongtinchuyentien.net/nmquan/Locketvv.js
+    script_url: https://raw.githubusercontent.com/Nmquan0512/Locketvv/refs/heads/main/ergn/Locketvv.js
     body_required: true
     update_interval: 5
